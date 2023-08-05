@@ -1,0 +1,7 @@
+Prerequisites FOR WINDOWS OS using Choco // USE Brew FOR MAC OS
+
+AWS CLI –  choco install awscli
+
+kubectl –  choco install kubernetes-cli
+
+eksctl –  choco install eksctl
