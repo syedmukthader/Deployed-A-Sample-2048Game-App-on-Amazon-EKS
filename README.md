@@ -17,3 +17,6 @@ The key points covered in this repo include:
 
 
 Enjoy bye !! :tada:
+
+
+![alt text](https://upload.wikimedia.org/wikipedia/commons/2/28/2048_finished_game.png)
