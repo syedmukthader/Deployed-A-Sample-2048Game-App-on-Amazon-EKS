@@ -9,9 +9,9 @@ The key points covered in this repo include:
 
 * Configuring IAM OIDC provider for EKS authentication
 
-* Deploying the 2048 application pod, service, ingress manifests
-
 * Installing ALB ingress controller to create a load balancer and route external traffic
+
+* Deploying the 2048 application pod, service, ingress manifests
 
 * Accessing the 2048 game via the load balancer URL
 
