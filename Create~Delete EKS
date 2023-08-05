@@ -1,0 +1,5 @@
+
+
+eksctl create cluster --name <<your-cluster-name>> --region <<your choice of region>> --fargate 
+
+eksctl delete cluster --name <<your-cluster-name>> --region <<your choice of region>>
