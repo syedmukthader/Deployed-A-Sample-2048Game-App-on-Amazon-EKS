@@ -1,0 +1,11 @@
+#IF You Need to configure IAM OIDC provider 
+#run the below command
+
+export cluster_name=<<Your-cluster-name>>
+
+oidc_id=$(aws eks describe-cluster --name <<Your-cluster-name>> --query "cluster.identity.oidc.issuer" --output text | cut -d '/' -f 5)
+
+#See if there is an IAM OIDC provider configured already
+#if not, run the below command
+
+eksctl utils associate-iam-oidc-provider --cluster <<Your-cluster-name>>  --approve
