@@ -1,4 +1,4 @@
-# Deployed-Sample-2048-Game-Application-on-Amazon-EKS
+# Deployed A Sample 2048Game App on Amazon-EKS
 :rocket::rocket:Deploying a sample 2048 game application on Amazon Elastic Kubernetes Service (EKS).:rocket::rocket:
 
 The key points covered in this repo include:
